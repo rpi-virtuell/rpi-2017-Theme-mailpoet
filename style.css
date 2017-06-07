@@ -1,0 +1,67 @@
+/*
+Theme Name: rpi-Newsletter-Style
+Description: Mailpoet-Theme 2017 rpi-virtuell
+Author: Jörg Lohrer
+Author URI: http://joerg-lohrer.de
+Author Email: info.empeiria@gmail.com	
+Tags: grey, blue, business
+
+Note: the plugin won't recognize any additional styles if you add them. The styles below offer all the possibilities of Wysija.
+
+List of email client compatible fonts:
+
+Arial
+Arial Black
+Comic Sans MS
+Courier New
+Georgia
+Impact
+Tahoma
+Times New Roman
+Trebuchet MS
+Verdana
+
+*/
+html {
+    background-color: #6aa4c3; /* cannot be transparent and will default to white */
+}
+
+header {
+    background-color: transparent; /* can be transparent */
+}
+body {
+    color:#6c6360;
+    font-family: "Trebuchet MS";
+    font-size: 14px;
+    background-color: #fcfcfc; /* can be transparent */
+}
+footer {
+    background-color: #093e5a; /* can be transparent */
+}
+h1 {
+    color: #363230;
+    font-family: "Trebuchet MS";
+    font-size: 22px;
+}
+h2 {
+    color: #363230;
+    font-family: "Trebuchet MS";
+    font-size: 18px;
+}
+h3 {
+    color: #363230;
+    font-family: "Trebuchet MS";
+    font-size: 16px;
+}
+a {
+    color: #4C99C3;
+    text-decoration:none;
+}
+unsubscribe {
+    color:#1B638A;
+}
+viewbrowser {
+	font-family: "Trebuchet MS";
+	font-size:14px;
+	color:#1B638A;
+}
